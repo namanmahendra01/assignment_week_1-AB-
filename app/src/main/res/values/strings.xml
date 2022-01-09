@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1AB</string>
+    <string name="hello_whats_up">Hello ! Whats up</string>
+    <string name="nothing_much">Nothing much</string>
+    <string name="you_know_android">You Know Android?</string>
+    <string name="yes_i_do">Yes I do</string>
+    <string name="can_you">Can You Teach Me?</string>
+</resources>

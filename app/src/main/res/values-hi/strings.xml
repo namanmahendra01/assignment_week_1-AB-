@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment1AB</string>
+    <string name="hello_whats_up">हेलो क्या चल रहा है</string>
+    <string name="nothing_much">ज़्यादा कुछ नहीं</string>
+    <string name="you_know_android">आप एंड्रॉइड जानते हैं?</string>
+    <string name="yes_i_do">हाँ मैं जानता हूँ</string>
+    <string name="can_you">क्या आप मुझे सिखा सकते हैं</string>
+</resources>
